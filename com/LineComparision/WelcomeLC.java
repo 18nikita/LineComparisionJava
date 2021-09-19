@@ -6,7 +6,5 @@ public class WelcomeLC {
 		// Welcome Message
 		
 		System.out.println("WELCOME TO LINE COMPARISION");
-
 	}
-
 }
