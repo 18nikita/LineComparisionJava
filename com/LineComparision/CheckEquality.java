@@ -1,6 +1,6 @@
 package com.LineComparision;
 
-public class CompareLineLength {
+public class CheckEquality {
 
 	// UC-2-Check Equality of two lines
 	//Coordinates of 1st line
